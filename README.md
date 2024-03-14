@@ -37,6 +37,22 @@
 * Video link : https://drive.google.com/file/d/1_IXtmFTDDznZEFaZ1V-cKnCAHhxXrerZ/view?usp=sharing
 ### Screenshots:
     ![image 1](erp_system/public/img1.png?raw=true "Image1")
+    ![image 2](erp_system/public/img2.png?raw=true "Image2")
+    ![image 3](erp_system/public/img3.png?raw=true "Image3")
+    ![image 4](erp_system/public/img4.png?raw=true "Image4")
+    ![image 5](erp_system/public/img5.png?raw=true "Image5")
+    ![image 6](erp_system/public/img6.png?raw=true "Image6")
+    ![image 7](erp_system/public/img7.png?raw=true "Image7")
+    ![image 8](erp_system/public/img8.png?raw=true "Image8")
+    ![image 9](erp_system/public/img9.png?raw=true "Image9")
+    ![image 10](erp_system/public/img10.png?raw=true "Image10")
+    ![image 11](erp_system/public/img11.png?raw=true "Image11")
+    ![image 12](erp_system/public/img12.png?raw=true "Image12")
+    ![image 13](erp_system/public/img13.png?raw=true "Image13")
+    ![image 14](erp_system/public/img14.png?raw=true "Image14")
+    ![image 15](erp_system/public/img15.png?raw=true "Image15")
+    ![image 16](erp_system/public/img16.png?raw=true "Image16")
+    ![image 17](erp_system/public/img17.png?raw=true "Image17")
 
  
   
