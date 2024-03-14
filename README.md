@@ -16,5 +16,10 @@
 
 * Calendar View
   * Track orders with a calendar view showing orders of the selected date. After selecting a particular date, order summary appears in tabular format, including Order Id, Customer Name, status of order, Order & Delivery Date.
+
+
+## Getting Started
+### To get started with My ERP, follow these steps:
+1. Clone the repository to your local machine using the following command:
  
   
