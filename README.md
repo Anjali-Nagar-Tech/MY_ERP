@@ -31,5 +31,12 @@
 
 4. Open your web browser and navigate to
    http://localhost:3000 to access the system.
+
+
+# Resources
+* Video link : https://drive.google.com/file/d/1_IXtmFTDDznZEFaZ1V-cKnCAHhxXrerZ/view?usp=sharing
+### Screenshots:
+    ![img17](https://github.com/Anjali-Nagar-Tech/MY_ERP/assets/145019350/6d523fc8-a513-4ea5-89f9-2ea7a94d41dd)
+
  
   
