@@ -21,5 +21,6 @@
 ## Getting Started
 ### To get started with My ERP, follow these steps:
 1. Clone the repository to your local machine using the following command:
+   git clone https://github.com/your-username/my-erp.git 
  
   
