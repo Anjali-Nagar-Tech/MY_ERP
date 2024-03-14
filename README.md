@@ -21,6 +21,15 @@
 ## Getting Started
 ### To get started with My ERP, follow these steps:
 1. Clone the repository to your local machine using the following command:
-   git clone https://github.com/your-username/my-erp.git 
+   git clone https://github.com/your-username/my-erp.git
+
+2. Navigate to the project directory and install the dependencies using the following command:(This includes all the related react imports)
+   npm install
+
+3. Start the development server using the following command:
+   npm start
+
+4. Open your web browser and navigate to
+   http://localhost:3000 to access the system.
  
   
