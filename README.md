@@ -36,7 +36,7 @@
 # Resources
 * Video link : https://drive.google.com/file/d/1_IXtmFTDDznZEFaZ1V-cKnCAHhxXrerZ/view?usp=sharing
 ### Screenshots:
-    ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+    ![image 1](erp_system/public/img1.png?raw=true "Image1")
 
  
   
